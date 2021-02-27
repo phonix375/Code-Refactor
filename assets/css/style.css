@@ -96,16 +96,17 @@ main article {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+
+}
+main article h2{
+    font-size: 36px;
+    margin-bottom: 20px;
 }
 
 main article img {
     max-height: 200px;
 }
 
-main article{
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /*end of the main section */
 
 /*start of the aside section */
