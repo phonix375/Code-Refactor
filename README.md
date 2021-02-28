@@ -47,3 +47,6 @@ git@github.com:phonix375/Code-Refactor.git
 
 this is the much up :
 ![Muckup images](https://phonix375.github.io/Code-Refactor/assets/images/Muckup.png?raw=true)
+
+This is the site after the code refactory :
+![Muckup images](https://phonix375.github.io/Code-Refactor/assets/images/after-refactor.gif?raw=true)
