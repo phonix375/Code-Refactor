@@ -4,13 +4,13 @@ Code Refactor for marketing website
 ## Project requirements:
 ### Add HTML Semantic elements to the code:
 list of HTML semantic elements I replaced DIV's with"
-Header
-NAV
-section
-main
-article
-aside
-footer
+ * Header
+ * NAV
+ * section
+ * main
+ * article
+ * aside
+ * footer
 ###  elements follow a logical structure independent of styling and positioning: 
 The elements in the code are now following a logical order by the sections and semantic elements. 
 
